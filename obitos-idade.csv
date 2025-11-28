@@ -1,0 +1,38 @@
+ Mortalidade - São Paulo
+Óbitos p/Ocorrênc por Capítulo CID-10 e Faixa Etária OPS
+Período:2022
+"Capítulo CID-10";"Menor 1 ano";"1 a 4 anos";"5 a 14 anos";"15 a 24 anos";"25 a 34 anos";"35 a 44 anos";"45 a 54 anos";"55 a 64 anos";"65 a 74 anos";"75 anos e mais";"Idade ignorada";"Total"
+"I.   Algumas doenças infecciosas e parasitárias";219;102;77;282;803;1401;2246;4057;6234;16525;26;31972
+"II.  Neoplasias (tumores)";23;121;242;403;1002;2636;6046;12740;17167;20400;4;60784
+"III. Doenças sangue órgãos hemat e transt imunitár";33;28;23;50;63;90;139;221;272;624;-;1543
+"IV.  Doenças endócrinas nutricionais e metabólicas";36;23;47;101;238;552;1207;2708;4486;8868;2;18268
+"V.   Transtornos mentais e comportamentais";-;-;2;24;103;212;407;532;467;1639;3;3389
+"VI.  Doenças do sistema nervoso";71;126;185;258;257;337;500;799;1713;9746;1;13993
+"VII. Doenças do olho e anexos";-;1;-;-;-;-;-;2;-;-;-;3
+"VIII.Doenças do ouvido e da apófise mastóide";2;1;4;5;5;4;4;9;8;20;-;62
+"IX.  Doenças do aparelho circulatório";53;43;95;416;1223;3368;7718;15576;23759;47219;48;99518
+"X.   Doenças do aparelho respiratório";246;201;101;266;575;1118;1927;4485;8631;25127;38;42715
+"XI.  Doenças do aparelho digestivo";65;27;45;114;365;1129;2286;3707;4429;6809;10;18986
+"XII. Doenças da pele e do tecido subcutâneo";2;2;5;14;22;47;131;266;399;1309;-;2197
+"XIII.Doenças sist osteomuscular e tec conjuntivo";2;3;11;34;69;107;142;230;334;740;-;1672
+"XIV. Doenças do aparelho geniturinário";29;19;24;61;121;282;563;1405;2569;10353;2;15428
+"XV.  Gravidez parto e puerpério";-;-;1;53;110;74;5;-;-;-;-;243
+"XVI. Algumas afec originadas no período perinatal";3302;4;5;4;1;1;2;1;-;1;6;3327
+"XVII.Malf cong deformid e anomalias cromossômicas";1417;148;100;82;59;58;62;64;47;35;1;2073
+"XVIII.Sint sinais e achad anorm ex clín e laborat";137;67;50;371;755;1032;1455;2159;2584;6199;129;14938
+"XIX. Lesões enven e alg out conseq causas externas";-;-;-;-;-;-;-;-;-;-;-;-
+"XX.  Causas externas de morbidade e mortalidade";233;168;234;2872;3620;3738;2979;2623;2343;5103;221;24134
+"XXI. Contatos com serviços de saúde";-;-;-;-;-;-;-;-;-;-;-;-
+"XXII.Códigos para propósitos especiais";-;-;-;-;-;-;-;-;-;-;-;-
+"Total";5870;1084;1251;5410;9391;16186;27819;51584;75442;160717;491;355245
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Notas:
+ 
+ Dados finais disponíveis até 2023. Data da atualização dos dados 12/2024.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 
