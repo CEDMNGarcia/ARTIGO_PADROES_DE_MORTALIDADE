@@ -2,11 +2,12 @@
 
 ## 1. Contexto Científico e Publicação
 
-Este repositório contém o código-fonte (*Jupyter Notebook*) utilizado para a análise de dados que subsidiou o artigo científico a seguir.
+Este repositório contém o código-fonte (*Jupyter Notebook*) utilizado para a análise de dados que subsidiou o artigo científico a seguir, o qual **foi aceito** no congresso.
 
 | Detalhe | Especificação | Referência |
 | :--- | :--- | :--- |
 | **Título do Artigo** | PADRÕES DE MORTALIDADE NO BRASIL: UMA ANÁLISE EXPLORATÓRIA POR SEXO E FAIXA ETÁRIA | |
+| **Status** | **Aceito** e publicado | |
 | **Evento de Submissão** | II CONGRESSO NACIONAL DE SAÚDE COLETIVA (II CONSAC) | |
 | **Área Temática** | AT01: Saúde Pública | |
 
@@ -70,3 +71,6 @@ O processo de execução do *Jupyter Notebook* (`Untitled0.ipynb`) deve seguir o
     *É fundamental que os caminhos de leitura dos dados (`pd.read_csv`) sejam ajustados para refletir a localização exata dos seus arquivos no Drive.*
 
 4.  **Processamento:** Execute sequencialmente todas as células do *notebook* para realizar o carregamento, a limpeza e a integração dos dados, gerando o *DataFrame* unificado para análise.
+
+---
+
